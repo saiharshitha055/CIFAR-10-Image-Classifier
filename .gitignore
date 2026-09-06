@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project training artifacts
+artifacts/
+
+# Training notebooks
+notebooks/
+
+# Generated reports
+reports/
+
+# OS files
+.DS_Store
+Thumbs.db
